@@ -37,6 +37,8 @@
 # Ignore debug and release folders
 CppPrimer/CppPrimer/Debug/*
 CppPrimer/CppPrimer/Release/*
+
+# Fix these three to ignore only the required folders
 *Debug*
 *Release*
 *.vs*
