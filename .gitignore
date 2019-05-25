@@ -33,3 +33,10 @@
 
 # Libreoffice temporary files
 *.~lock.*
+
+# Ignore debug and release folders
+CppPrimer/CppPrimer/Debug/*
+CppPrimer/CppPrimer/Release/*
+*Debug*
+*Release*
+*.vs*
