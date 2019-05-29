@@ -39,6 +39,25 @@ CppPrimer/CppPrimer/Debug/*
 CppPrimer/CppPrimer/Release/*
 
 # Fix these three to ignore only the required folders
-*Debug*
-*Release*
-*.vs*
+Debug/
+Release/
+.vs/
+ipch
+pch.h
+pch.cpp
+*.pb.h
+*.pb.cc
+*.user
+*.suo
+*.aps
+*.ncb
+*.sdf
+*.obj
+*.class
+*.uid
+*.hlt
+*.opensdf
+*.ilk
+*.xrs
+*_autogen.h
+
