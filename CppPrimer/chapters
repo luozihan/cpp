@@ -40,7 +40,6 @@ Chapter 3 Strings, Vectors, and Arrays
 3.3 Library vector Type
 3.3.1 Defining and Initializing vectors
 3.3.2 Adding Elements to a vector
-C++ Primer, Fifth Edition
 3.3.3 Other vector Operations
 3.4 Introducing Iterators
 3.4.1 Using Iterators
@@ -73,7 +72,6 @@ Chapter 4 Expressions
 4.11.2 Other Implicit Conversions
 4.11.3 Explicit Conversions
 4.12 Operator Precedence Table
-C++ Primer, Fifth Edition
 Chapter Summary
 Defined Terms
 Chapter 5 Statements
