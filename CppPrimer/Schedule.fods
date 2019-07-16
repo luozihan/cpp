@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2019-07-14T16:52:09.896000000</meta:creation-date><dc:date>2019-07-16T12:39:39.576000000</dc:date><meta:editing-duration>PT2H17M33S</meta:editing-duration><meta:editing-cycles>13</meta:editing-cycles><meta:generator>LibreOffice/6.2.1.2$Windows_X86_64 LibreOffice_project/7bcb35dc3024a62dea0caee87020152d1ee96e71</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="365" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2019-07-14T16:52:09.896000000</meta:creation-date><dc:date>2019-07-16T12:42:08.963000000</dc:date><meta:editing-duration>PT2H20M2S</meta:editing-duration><meta:editing-cycles>14</meta:editing-cycles><meta:generator>LibreOffice/6.2.1.2$Windows_X86_64 LibreOffice_project/7bcb35dc3024a62dea0caee87020152d1ee96e71</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="432" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">2257</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">15290</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">24585</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">52595</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">67</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">6</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">54</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -23,7 +23,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">43</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">42</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -188,7 +188,10 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="76.06mm"/>
   </style:style>
   <style:style style:name="co6" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="41.47mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="79.6mm"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="54.82mm"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="4.52mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
@@ -268,6 +271,7 @@
     <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -282,6 +286,7 @@
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Sections:</text:p>
      </table:table-cell>
+     <table:table-cell table:style-name="ce1"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -296,6 +301,8 @@
       <text:p>20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>1.1 Writing a Simple C++ Program</text:p><text:p>1.2 A First Look at Input/Output</text:p><text:p>1.3 A Word about Comments</text:p><text:p>1.4 Flow of Control</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E2]&amp;&quot; (&quot;&amp;[.D2]&amp;&quot;)&quot;" office:value-type="string" office:string-value="1.1 Writing a Simple C++ Program&#x0a;1.2 A First Look at Input/Output&#x0a;1.3 A Word about Comments&#x0a;1.4 Flow of Control (20)" calcext:value-type="string"><text:p>1.1 Writing a Simple C++ Program</text:p><text:p>1.2 A First Look at Input/Output</text:p><text:p>1.3 A Word about Comments</text:p><text:p>1.4 Flow of Control (20)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Part I The Basics</text:p>
@@ -314,6 +321,8 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>1.5 Introducing Classes</text:p><text:p>1.6 The Bookstore Program</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E3]&amp;&quot; (&quot;&amp;[.D3]&amp;&quot;)&quot;" office:value-type="string" office:string-value="1.5 Introducing Classes&#x0a;1.6 The Bookstore Program (6)" calcext:value-type="string"><text:p>1.5 Introducing Classes</text:p><text:p>1.6 The Bookstore Program (6)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -329,6 +338,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>2.1 Primitive Built-in Types</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E4]&amp;&quot; (&quot;&amp;[.D4]&amp;&quot;)&quot;" office:value-type="string" office:string-value="2.1 Primitive Built-in Types (13)" calcext:value-type="string">
+      <text:p>2.1 Primitive Built-in Types (13)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -346,6 +358,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>2.2 Variables</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E5]&amp;&quot; (&quot;&amp;[.D5]&amp;&quot;)&quot;" office:value-type="string" office:string-value="2.2 Variables (10)" calcext:value-type="string">
+      <text:p>2.2 Variables (10)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -361,6 +376,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>2.3 Compound Types</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E6]&amp;&quot; (&quot;&amp;[.D6]&amp;&quot;)&quot;" office:value-type="string" office:string-value="2.3 Compound Types (12)" calcext:value-type="string">
+      <text:p>2.3 Compound Types (12)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -378,6 +396,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>2.4 const Qualifier</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E7]&amp;&quot; (&quot;&amp;[.D7]&amp;&quot;)&quot;" office:value-type="string" office:string-value="2.4 const Qualifier (11)" calcext:value-type="string">
+      <text:p>2.4 const Qualifier (11)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -393,6 +414,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>2.5 Dealing with Types</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E8]&amp;&quot; (&quot;&amp;[.D8]&amp;&quot;)&quot;" office:value-type="string" office:string-value="2.5 Dealing with Types (6)" calcext:value-type="string">
+      <text:p>2.5 Dealing with Types (6)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -410,6 +434,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>2.6 Defining Our Own Data Structures</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E9]&amp;&quot; (&quot;&amp;[.D9]&amp;&quot;)&quot;" office:value-type="string" office:string-value="2.6 Defining Our Own Data Structures (7)" calcext:value-type="string">
+      <text:p>2.6 Defining Our Own Data Structures (7)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -425,6 +452,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>3.1 Namespace using Declarations</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E10]&amp;&quot; (&quot;&amp;[.D10]&amp;&quot;)&quot;" office:value-type="string" office:string-value="3.1 Namespace using Declarations (2)" calcext:value-type="string">
+      <text:p>3.1 Namespace using Declarations (2)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -442,6 +472,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>3.2 Library string Type</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E11]&amp;&quot; (&quot;&amp;[.D11]&amp;&quot;)&quot;" office:value-type="string" office:string-value="3.2 Library string Type (16)" calcext:value-type="string">
+      <text:p>3.2 Library string Type (16)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -457,6 +490,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>3.3 Library vector Type</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E12]&amp;&quot; (&quot;&amp;[.D12]&amp;&quot;)&quot;" office:value-type="string" office:string-value="3.3 Library vector Type (12)" calcext:value-type="string">
+      <text:p>3.3 Library vector Type (12)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -474,6 +510,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>3.4 Introducing Iterators</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E13]&amp;&quot; (&quot;&amp;[.D13]&amp;&quot;)&quot;" office:value-type="string" office:string-value="3.4 Introducing Iterators (9)" calcext:value-type="string">
+      <text:p>3.4 Introducing Iterators (9)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -489,6 +528,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>3.5 Arrays</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E14]&amp;&quot; (&quot;&amp;[.D14]&amp;&quot;)&quot;" office:value-type="string" office:string-value="3.5 Arrays (16)" calcext:value-type="string">
+      <text:p>3.5 Arrays (16)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -506,6 +548,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>3.6 Multidimensional Arrays</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E15]&amp;&quot; (&quot;&amp;[.D15]&amp;&quot;)&quot;" office:value-type="string" office:string-value="3.6 Multidimensional Arrays (6)" calcext:value-type="string">
+      <text:p>3.6 Multidimensional Arrays (6)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -521,6 +566,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.1 Fundamentals</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E16]&amp;&quot; (&quot;&amp;[.D16]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.1 Fundamentals (6)" calcext:value-type="string">
+      <text:p>4.1 Fundamentals (6)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -538,6 +586,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.2 Arithmetic Operators</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E17]&amp;&quot; (&quot;&amp;[.D17]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.2 Arithmetic Operators (3)" calcext:value-type="string">
+      <text:p>4.2 Arithmetic Operators (3)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -553,6 +604,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.3 Logical and Relational Operators</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E18]&amp;&quot; (&quot;&amp;[.D18]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.3 Logical and Relational Operators (4)" calcext:value-type="string">
+      <text:p>4.3 Logical and Relational Operators (4)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -570,6 +624,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.4 Assignment Operators</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E19]&amp;&quot; (&quot;&amp;[.D19]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.4 Assignment Operators (4)" calcext:value-type="string">
+      <text:p>4.4 Assignment Operators (4)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -585,6 +642,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.5 Increment and Decrement Operators</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E20]&amp;&quot; (&quot;&amp;[.D20]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.5 Increment and Decrement Operators (3)" calcext:value-type="string">
+      <text:p>4.5 Increment and Decrement Operators (3)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -602,6 +662,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.6 The Member Access Operators</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E21]&amp;&quot; (&quot;&amp;[.D21]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.6 The Member Access Operators (1)" calcext:value-type="string">
+      <text:p>4.6 The Member Access Operators (1)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -617,6 +680,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.7 The Conditional Operator</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E22]&amp;&quot; (&quot;&amp;[.D22]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.7 The Conditional Operator (2)" calcext:value-type="string">
+      <text:p>4.7 The Conditional Operator (2)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -634,6 +700,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.8 The Bitwise Operators</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E23]&amp;&quot; (&quot;&amp;[.D23]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.8 The Bitwise Operators (5)" calcext:value-type="string">
+      <text:p>4.8 The Bitwise Operators (5)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -649,6 +718,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.9 The sizeof Operator</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E24]&amp;&quot; (&quot;&amp;[.D24]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.9 The sizeof Operator (1)" calcext:value-type="string">
+      <text:p>4.9 The sizeof Operator (1)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -666,6 +738,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.10 Comma Operator</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E25]&amp;&quot; (&quot;&amp;[.D25]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.10 Comma Operator (2)" calcext:value-type="string">
+      <text:p>4.10 Comma Operator (2)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -681,6 +756,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.11 Type Conversions</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E26]&amp;&quot; (&quot;&amp;[.D26]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.11 Type Conversions (8)" calcext:value-type="string">
+      <text:p>4.11 Type Conversions (8)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -698,6 +776,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>4.12 Operator Precedence Table</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E27]&amp;&quot; (&quot;&amp;[.D27]&amp;&quot;)&quot;" office:value-type="string" office:string-value="4.12 Operator Precedence Table (2)" calcext:value-type="string">
+      <text:p>4.12 Operator Precedence Table (2)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -713,6 +794,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.1 Simple Statements</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E28]&amp;&quot; (&quot;&amp;[.D28]&amp;&quot;)&quot;" office:value-type="string" office:string-value="5.1 Simple Statements (3)" calcext:value-type="string">
+      <text:p>5.1 Simple Statements (3)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -730,6 +814,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.2 Statement Scope</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E29]&amp;&quot; (&quot;&amp;[.D29]&amp;&quot;)&quot;" office:value-type="string" office:string-value="5.2 Statement Scope (1)" calcext:value-type="string">
+      <text:p>5.2 Statement Scope (1)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -745,6 +832,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.3 Conditional Statements</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E30]&amp;&quot; (&quot;&amp;[.D30]&amp;&quot;)&quot;" office:value-type="string" office:string-value="5.3 Conditional Statements (10)" calcext:value-type="string">
+      <text:p>5.3 Conditional Statements (10)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -762,6 +852,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.4 Iterative Statements</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E31]&amp;&quot; (&quot;&amp;[.D31]&amp;&quot;)&quot;" office:value-type="string" office:string-value="5.4 Iterative Statements (9)" calcext:value-type="string">
+      <text:p>5.4 Iterative Statements (9)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -777,6 +870,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.5 Jump Statements</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E32]&amp;&quot; (&quot;&amp;[.D32]&amp;&quot;)&quot;" office:value-type="string" office:string-value="5.5 Jump Statements (3)" calcext:value-type="string">
+      <text:p>5.5 Jump Statements (3)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -794,6 +890,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.6 try Blocks and Exception Handling</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E33]&amp;&quot; (&quot;&amp;[.D33]&amp;&quot;)&quot;" office:value-type="string" office:string-value="5.6 try Blocks and Exception Handling (6)" calcext:value-type="string">
+      <text:p>5.6 try Blocks and Exception Handling (6)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -809,6 +908,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.1 Function Basics</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E34]&amp;&quot; (&quot;&amp;[.D34]&amp;&quot;)&quot;" office:value-type="string" office:string-value="6.1 Function Basics (8)" calcext:value-type="string">
+      <text:p>6.1 Function Basics (8)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -826,6 +928,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.2 Argument Passing</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E35]&amp;&quot; (&quot;&amp;[.D35]&amp;&quot;)&quot;" office:value-type="string" office:string-value="6.2 Argument Passing (17)" calcext:value-type="string">
+      <text:p>6.2 Argument Passing (17)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -841,6 +946,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.3 Return Types and the return Statement</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E36]&amp;&quot; (&quot;&amp;[.D36]&amp;&quot;)&quot;" office:value-type="string" office:string-value="6.3 Return Types and the return Statement (9)" calcext:value-type="string">
+      <text:p>6.3 Return Types and the return Statement (9)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -858,6 +966,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.4 Overloaded Functions</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E37]&amp;&quot; (&quot;&amp;[.D37]&amp;&quot;)&quot;" office:value-type="string" office:string-value="6.4 Overloaded Functions (7)" calcext:value-type="string">
+      <text:p>6.4 Overloaded Functions (7)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -873,6 +984,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.5 Features for Specialized Uses</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E38]&amp;&quot; (&quot;&amp;[.D38]&amp;&quot;)&quot;" office:value-type="string" office:string-value="6.5 Features for Specialized Uses (8)" calcext:value-type="string">
+      <text:p>6.5 Features for Specialized Uses (8)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -890,6 +1004,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.6 Function Matching</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E39]&amp;&quot; (&quot;&amp;[.D39]&amp;&quot;)&quot;" office:value-type="string" office:string-value="6.6 Function Matching (6)" calcext:value-type="string">
+      <text:p>6.6 Function Matching (6)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -905,6 +1022,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.7 Pointers to Functions</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E40]&amp;&quot; (&quot;&amp;[.D40]&amp;&quot;)&quot;" office:value-type="string" office:string-value="6.7 Pointers to Functions (5)" calcext:value-type="string">
+      <text:p>6.7 Pointers to Functions (5)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -922,6 +1042,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.1 Defining Abstract Data Types</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E41]&amp;&quot; (&quot;&amp;[.D41]&amp;&quot;)&quot;" office:value-type="string" office:string-value="7.1 Defining Abstract Data Types (17)" calcext:value-type="string">
+      <text:p>7.1 Defining Abstract Data Types (17)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -937,6 +1060,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.2 Access Control and Encapsulation</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E42]&amp;&quot; (&quot;&amp;[.D42]&amp;&quot;)&quot;" office:value-type="string" office:string-value="7.2 Access Control and Encapsulation (4)" calcext:value-type="string">
+      <text:p>7.2 Access Control and Encapsulation (4)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -954,6 +1080,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.3 Additional Class Features</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E43]&amp;&quot; (&quot;&amp;[.D43]&amp;&quot;)&quot;" office:value-type="string" office:string-value="7.3 Additional Class Features (13)" calcext:value-type="string">
+      <text:p>7.3 Additional Class Features (13)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -969,6 +1098,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.4 Class Scope</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E44]&amp;&quot; (&quot;&amp;[.D44]&amp;&quot;)&quot;" office:value-type="string" office:string-value="7.4 Class Scope (7)" calcext:value-type="string">
+      <text:p>7.4 Class Scope (7)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -986,6 +1118,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.5 Constructors Revisited</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E45]&amp;&quot; (&quot;&amp;[.D45]&amp;&quot;)&quot;" office:value-type="string" office:string-value="7.5 Constructors Revisited (15)" calcext:value-type="string">
+      <text:p>7.5 Constructors Revisited (15)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1002,6 +1137,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.6 static Class Members</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E46]&amp;&quot; (&quot;&amp;[.D46]&amp;&quot;)&quot;" office:value-type="string" office:string-value="7.6 static Class Members (6)" calcext:value-type="string">
+      <text:p>7.6 static Class Members (6)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1017,6 +1155,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>8.1 The IO Classes</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E47]&amp;&quot; (&quot;&amp;[.D47]&amp;&quot;)&quot;" office:value-type="string" office:string-value="8.1 The IO Classes (8)" calcext:value-type="string">
+      <text:p>8.1 The IO Classes (8)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Part II The C++ Library</text:p>
@@ -1036,6 +1177,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>8.2 File Input and Output</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E48]&amp;&quot; (&quot;&amp;[.D48]&amp;&quot;)&quot;" office:value-type="string" office:string-value="8.2 File Input and Output (6)" calcext:value-type="string">
+      <text:p>8.2 File Input and Output (6)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1051,6 +1195,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>8.3 string Streams</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E49]&amp;&quot; (&quot;&amp;[.D49]&amp;&quot;)&quot;" office:value-type="string" office:string-value="8.3 string Streams (4)" calcext:value-type="string">
+      <text:p>8.3 string Streams (4)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -1068,6 +1215,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.1 Overview of the Sequential Containers</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E50]&amp;&quot; (&quot;&amp;[.D50]&amp;&quot;)&quot;" office:value-type="string" office:string-value="9.1 Overview of the Sequential Containers (4)" calcext:value-type="string">
+      <text:p>9.1 Overview of the Sequential Containers (4)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1083,6 +1233,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.2 Container Library Overview</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E51]&amp;&quot; (&quot;&amp;[.D51]&amp;&quot;)&quot;" office:value-type="string" office:string-value="9.2 Container Library Overview (15)" calcext:value-type="string">
+      <text:p>9.2 Container Library Overview (15)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -1100,6 +1253,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.3 Sequential Container Operations</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E52]&amp;&quot; (&quot;&amp;[.D52]&amp;&quot;)&quot;" office:value-type="string" office:string-value="9.3 Sequential Container Operations (17)" calcext:value-type="string">
+      <text:p>9.3 Sequential Container Operations (17)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1115,6 +1271,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.4 How a vector Grows</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E53]&amp;&quot; (&quot;&amp;[.D53]&amp;&quot;)&quot;" office:value-type="string" office:string-value="9.4 How a vector Grows (5)" calcext:value-type="string">
+      <text:p>9.4 How a vector Grows (5)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -1132,6 +1291,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.5 Additional string Operations</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E54]&amp;&quot; (&quot;&amp;[.D54]&amp;&quot;)&quot;" office:value-type="string" office:string-value="9.5 Additional string Operations (11)" calcext:value-type="string">
+      <text:p>9.5 Additional string Operations (11)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1147,6 +1309,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.6 Container Adaptors</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E55]&amp;&quot; (&quot;&amp;[.D55]&amp;&quot;)&quot;" office:value-type="string" office:string-value="9.6 Container Adaptors (4)" calcext:value-type="string">
+      <text:p>9.6 Container Adaptors (4)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -1164,6 +1329,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.1 Overview</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E56]&amp;&quot; (&quot;&amp;[.D56]&amp;&quot;)&quot;" office:value-type="string" office:string-value="10.1 Overview (3)" calcext:value-type="string">
+      <text:p>10.1 Overview (3)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1179,6 +1347,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.2 A First Look at the Algorithms</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E57]&amp;&quot; (&quot;&amp;[.D57]&amp;&quot;)&quot;" office:value-type="string" office:string-value="10.2 A First Look at the Algorithms (9)" calcext:value-type="string">
+      <text:p>10.2 A First Look at the Algorithms (9)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -1196,6 +1367,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.3 Customizing Operations</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E58]&amp;&quot; (&quot;&amp;[.D58]&amp;&quot;)&quot;" office:value-type="string" office:string-value="10.3 Customizing Operations (19)" calcext:value-type="string">
+      <text:p>10.3 Customizing Operations (19)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1211,6 +1385,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.4 Revisiting Iterators</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E59]&amp;&quot; (&quot;&amp;[.D59]&amp;&quot;)&quot;" office:value-type="string" office:string-value="10.4 Revisiting Iterators (10)" calcext:value-type="string">
+      <text:p>10.4 Revisiting Iterators (10)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -1228,6 +1405,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.5 Structure of Generic Algorithms</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E60]&amp;&quot; (&quot;&amp;[.D60]&amp;&quot;)&quot;" office:value-type="string" office:string-value="10.5 Structure of Generic Algorithms (5)" calcext:value-type="string">
+      <text:p>10.5 Structure of Generic Algorithms (5)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1243,6 +1423,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.6 Container-Specific Algorithms</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E61]&amp;&quot; (&quot;&amp;[.D61]&amp;&quot;)&quot;" office:value-type="string" office:string-value="10.6 Container-Specific Algorithms (2)" calcext:value-type="string">
+      <text:p>10.6 Container-Specific Algorithms (2)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -1260,6 +1443,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11.1 Using an Associative Container</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E62]&amp;&quot; (&quot;&amp;[.D62]&amp;&quot;)&quot;" office:value-type="string" office:string-value="11.1 Using an Associative Container (4)" calcext:value-type="string">
+      <text:p>11.1 Using an Associative Container (4)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1275,6 +1461,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11.2 Overview of the Associative Containers</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E63]&amp;&quot; (&quot;&amp;[.D63]&amp;&quot;)&quot;" office:value-type="string" office:string-value="11.2 Overview of the Associative Containers (6)" calcext:value-type="string">
+      <text:p>11.2 Overview of the Associative Containers (6)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -1292,6 +1481,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11.3 Operations on Associative Containers</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E64]&amp;&quot; (&quot;&amp;[.D64]&amp;&quot;)&quot;" office:value-type="string" office:string-value="11.3 Operations on Associative Containers (18)" calcext:value-type="string">
+      <text:p>11.3 Operations on Associative Containers (18)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1307,6 +1499,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11.4 The Unordered Containers</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E65]&amp;&quot; (&quot;&amp;[.D65]&amp;&quot;)&quot;" office:value-type="string" office:string-value="11.4 The Unordered Containers (5)" calcext:value-type="string">
+      <text:p>11.4 The Unordered Containers (5)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -1324,6 +1519,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12.1 Dynamic Memory and Smart Pointers</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E66]&amp;&quot; (&quot;&amp;[.D66]&amp;&quot;)&quot;" office:value-type="string" office:string-value="12.1 Dynamic Memory and Smart Pointers (33)" calcext:value-type="string">
+      <text:p>12.1 Dynamic Memory and Smart Pointers (33)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1339,6 +1537,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12.2 Dynamic Arrays</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E67]&amp;&quot; (&quot;&amp;[.D67]&amp;&quot;)&quot;" office:value-type="string" office:string-value="12.2 Dynamic Arrays (10)" calcext:value-type="string">
+      <text:p>12.2 Dynamic Arrays (10)</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -1356,6 +1557,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12.3 Using the Library: A Text-Query Program</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=[.E68]&amp;&quot; (&quot;&amp;[.D68]&amp;&quot;)&quot;" office:value-type="string" office:string-value="12.3 Using the Library: A Text-Query Program (8)" calcext:value-type="string">
+      <text:p>12.3 Using the Library: A Text-Query Program (8)</text:p>
+     </table:table-cell>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1366,6 +1570,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>13.1 Copy, Assign, and Destroy</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Part III Tools for Class Authors</text:p>
      </table:table-cell>
@@ -1378,7 +1583,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>13.2 Copy Control and Resource Management</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1388,7 +1593,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>13.3 Swap</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1398,7 +1603,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>13.4 A Copy-Control Example</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1408,7 +1613,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>13.5 Classes That Manage Dynamic Memory</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1418,7 +1623,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>13.6 Moving Objects</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1428,7 +1633,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>14.1 Basic Concepts</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1438,7 +1643,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>14.2 Input and Output Operators</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1448,7 +1653,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>14.3 Arithmetic and Relational Operators</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1458,7 +1663,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>14.4 Assignment Operators</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1468,7 +1673,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>14.5 Subscript Operator</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1478,7 +1683,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>14.6 Increment and Decrement Operators</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1488,7 +1693,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>14.7 Member Access Operators</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1498,7 +1703,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>14.8 Function-Call Operator</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1508,7 +1713,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>14.9 Overloading, Conversions, and Operators</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1518,7 +1723,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>15.1 OOP: An Overview</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1528,7 +1733,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>15.2 Defining Base and Derived Classes</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1538,7 +1743,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>15.3 Virtual Functions</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1548,7 +1753,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>15.4 Abstract Base Classes</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1558,7 +1763,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>15.5 Access Control and Inheritance</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1568,7 +1773,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>15.6 Class Scope under Inheritance</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1578,7 +1783,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>15.7 Constructors and Copy Control</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1588,7 +1793,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>15.8 Containers and Inheritance</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1598,7 +1803,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>15.9 Text Queries Revisited</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1608,7 +1813,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>16.1 Defining a Template</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1618,7 +1823,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>16.2 Template Argument Deduction</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1628,7 +1833,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>16.3 Overloading and Templates</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1638,7 +1843,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>16.4 Variadic Templates</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1648,7 +1853,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>16.5 Template Specializations</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1658,7 +1863,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>17.1 The tuple Type</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1668,7 +1873,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>17.2 The bitset Type</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1678,7 +1883,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>17.3 Regular Expressions</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1688,7 +1893,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>17.4 Random Numbers</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1698,7 +1903,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>17.5 The IO Library Revisited</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1708,7 +1913,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>18.1 Exception Handling</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1718,7 +1923,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>18.2 Namespaces</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1728,7 +1933,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>18.3 Multiple and Virtual Inheritance</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1738,7 +1943,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>19.1 Controlling Memory Allocation</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1748,7 +1953,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>19.2 Run-Time Type Identification</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1758,7 +1963,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>19.3 Enumerations</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1768,7 +1973,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>19.4 Pointer to Class Member</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1778,7 +1983,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>19.5 Nested Classes</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1788,7 +1993,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>19.6 union: A Space-Saving Class</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1798,7 +2003,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>19.7 Local Classes</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
@@ -1808,7 +2013,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>19.8 Inherently Nonportable Features</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
