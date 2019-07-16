@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2019-07-14T16:52:09.896000000</meta:creation-date><dc:date>2019-07-14T19:46:18.473000000</dc:date><meta:editing-duration>PT1H56M41S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:generator>LibreOffice/6.2.1.2$Windows_X86_64 LibreOffice_project/7bcb35dc3024a62dea0caee87020152d1ee96e71</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="283" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2019-07-14T16:52:09.896000000</meta:creation-date><dc:date>2019-07-16T12:39:39.576000000</dc:date><meta:editing-duration>PT2H17M33S</meta:editing-duration><meta:editing-cycles>13</meta:editing-cycles><meta:generator>LibreOffice/6.2.1.2$Windows_X86_64 LibreOffice_project/7bcb35dc3024a62dea0caee87020152d1ee96e71</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="365" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -13,8 +13,8 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">27</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">67</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -23,7 +23,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">43</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -248,7 +248,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2019-07-14">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="16:57:06.330000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2019-07-16">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="12:18:46.283000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -701,9 +701,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C28]-[.B28]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="233" calcext:value-type="float">
+      <text:p>233</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="236" calcext:value-type="float">
+      <text:p>236</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C28]-[.B28]" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.1 Simple Statements</text:p>
@@ -711,9 +717,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C29]-[.B29]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="236" calcext:value-type="float">
+      <text:p>236</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="237" calcext:value-type="float">
+      <text:p>237</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C29]-[.B29]" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.2 Statement Scope</text:p>
@@ -721,9 +733,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C30]-[.B30]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="237" calcext:value-type="float">
+      <text:p>237</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="247" calcext:value-type="float">
+      <text:p>247</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C30]-[.B30]" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.3 Conditional Statements</text:p>
@@ -731,9 +749,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C31]-[.B31]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="247" calcext:value-type="float">
+      <text:p>247</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="256" calcext:value-type="float">
+      <text:p>256</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C31]-[.B31]" office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.4 Iterative Statements</text:p>
@@ -741,9 +765,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C32]-[.B32]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="256" calcext:value-type="float">
+      <text:p>256</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="259" calcext:value-type="float">
+      <text:p>259</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C32]-[.B32]" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.5 Jump Statements</text:p>
@@ -751,9 +781,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C33]-[.B33]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="259" calcext:value-type="float">
+      <text:p>259</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="265" calcext:value-type="float">
+      <text:p>265</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C33]-[.B33]" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>5.6 try Blocks and Exception Handling</text:p>
@@ -761,9 +797,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C34]-[.B34]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="268" calcext:value-type="float">
+      <text:p>268</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="276" calcext:value-type="float">
+      <text:p>276</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C34]-[.B34]" office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.1 Function Basics</text:p>
@@ -771,9 +813,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C35]-[.B35]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="276" calcext:value-type="float">
+      <text:p>276</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="293" calcext:value-type="float">
+      <text:p>293</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C35]-[.B35]" office:value-type="float" office:value="17" calcext:value-type="float">
+      <text:p>17</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.2 Argument Passing</text:p>
@@ -781,9 +829,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C36]-[.B36]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="294" calcext:value-type="float">
+      <text:p>294</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="303" calcext:value-type="float">
+      <text:p>303</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C36]-[.B36]" office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.3 Return Types and the return Statement</text:p>
@@ -791,9 +845,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C37]-[.B37]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="303" calcext:value-type="float">
+      <text:p>303</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C37]-[.B37]" office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.4 Overloaded Functions</text:p>
@@ -801,9 +861,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C38]-[.B38]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="310" calcext:value-type="float">
+      <text:p>310</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="318" calcext:value-type="float">
+      <text:p>318</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C38]-[.B38]" office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.5 Features for Specialized Uses</text:p>
@@ -811,9 +877,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C39]-[.B39]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="318" calcext:value-type="float">
+      <text:p>318</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="324" calcext:value-type="float">
+      <text:p>324</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C39]-[.B39]" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.6 Function Matching</text:p>
@@ -821,9 +893,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C40]-[.B40]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="324" calcext:value-type="float">
+      <text:p>324</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="329" calcext:value-type="float">
+      <text:p>329</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C40]-[.B40]" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>6.7 Pointers to Functions</text:p>
@@ -831,9 +909,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C41]-[.B41]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="332" calcext:value-type="float">
+      <text:p>332</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="349" calcext:value-type="float">
+      <text:p>349</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C41]-[.B41]" office:value-type="float" office:value="17" calcext:value-type="float">
+      <text:p>17</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.1 Defining Abstract Data Types</text:p>
@@ -841,9 +925,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C42]-[.B42]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="349" calcext:value-type="float">
+      <text:p>349</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="353" calcext:value-type="float">
+      <text:p>353</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C42]-[.B42]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.2 Access Control and Encapsulation</text:p>
@@ -851,9 +941,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C43]-[.B43]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="353" calcext:value-type="float">
+      <text:p>353</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="366" calcext:value-type="float">
+      <text:p>366</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C43]-[.B43]" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.3 Additional Class Features</text:p>
@@ -861,9 +957,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C44]-[.B44]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="366" calcext:value-type="float">
+      <text:p>366</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="373" calcext:value-type="float">
+      <text:p>373</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C44]-[.B44]" office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.4 Class Scope</text:p>
@@ -871,9 +973,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C45]-[.B45]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="373" calcext:value-type="float">
+      <text:p>373</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="388" calcext:value-type="float">
+      <text:p>388</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C45]-[.B45]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.5 Constructors Revisited</text:p>
@@ -881,9 +989,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C46]-[.B46]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="388" calcext:value-type="float">
+      <text:p>388</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="394" calcext:value-type="float">
+      <text:p>394</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C46]-[.B46]" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>7.6 static Class Members</text:p>
@@ -891,9 +1005,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C50]-[.B50]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="397" calcext:value-type="float">
+      <text:p>397</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="405" calcext:value-type="float">
+      <text:p>405</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C47]-[.B47]" office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>8.1 The IO Classes</text:p>
@@ -903,9 +1023,15 @@
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C51]-[.B51]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="405" calcext:value-type="float">
+      <text:p>405</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="411" calcext:value-type="float">
+      <text:p>411</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C48]-[.B48]" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>8.2 File Input and Output</text:p>
@@ -913,9 +1039,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C52]-[.B52]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="411" calcext:value-type="float">
+      <text:p>411</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="415" calcext:value-type="float">
+      <text:p>415</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C49]-[.B49]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>8.3 string Streams</text:p>
@@ -923,9 +1055,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C53]-[.B53]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="416" calcext:value-type="float">
+      <text:p>416</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="420" calcext:value-type="float">
+      <text:p>420</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C50]-[.B50]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.1 Overview of the Sequential Containers</text:p>
@@ -933,9 +1071,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C54]-[.B54]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="420" calcext:value-type="float">
+      <text:p>420</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="435" calcext:value-type="float">
+      <text:p>435</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C51]-[.B51]" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.2 Container Library Overview</text:p>
@@ -943,9 +1087,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C55]-[.B55]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="435" calcext:value-type="float">
+      <text:p>435</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="452" calcext:value-type="float">
+      <text:p>452</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C52]-[.B52]" office:value-type="float" office:value="17" calcext:value-type="float">
+      <text:p>17</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.3 Sequential Container Operations</text:p>
@@ -953,9 +1103,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C56]-[.B56]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="452" calcext:value-type="float">
+      <text:p>452</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="457" calcext:value-type="float">
+      <text:p>457</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C53]-[.B53]" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.4 How a vector Grows</text:p>
@@ -963,9 +1119,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C57]-[.B57]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="457" calcext:value-type="float">
+      <text:p>457</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="468" calcext:value-type="float">
+      <text:p>468</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C54]-[.B54]" office:value-type="float" office:value="11" calcext:value-type="float">
+      <text:p>11</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.5 Additional string Operations</text:p>
@@ -973,9 +1135,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C58]-[.B58]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="468" calcext:value-type="float">
+      <text:p>468</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="472" calcext:value-type="float">
+      <text:p>472</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C55]-[.B55]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>9.6 Container Adaptors</text:p>
@@ -983,9 +1151,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C59]-[.B59]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="474" calcext:value-type="float">
+      <text:p>474</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="477" calcext:value-type="float">
+      <text:p>477</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C56]-[.B56]" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.1 Overview</text:p>
@@ -993,9 +1167,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C60]-[.B60]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="477" calcext:value-type="float">
+      <text:p>477</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="486" calcext:value-type="float">
+      <text:p>486</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C57]-[.B57]" office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.2 A First Look at the Algorithms</text:p>
@@ -1003,9 +1183,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C61]-[.B61]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="487" calcext:value-type="float">
+      <text:p>487</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="506" calcext:value-type="float">
+      <text:p>506</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C58]-[.B58]" office:value-type="float" office:value="19" calcext:value-type="float">
+      <text:p>19</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.3 Customizing Operations</text:p>
@@ -1013,9 +1199,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C62]-[.B62]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="506" calcext:value-type="float">
+      <text:p>506</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="516" calcext:value-type="float">
+      <text:p>516</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C59]-[.B59]" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.4 Revisiting Iterators</text:p>
@@ -1023,9 +1215,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C63]-[.B63]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="517" calcext:value-type="float">
+      <text:p>517</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="522" calcext:value-type="float">
+      <text:p>522</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C60]-[.B60]" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.5 Structure of Generic Algorithms</text:p>
@@ -1033,9 +1231,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C64]-[.B64]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="523" calcext:value-type="float">
+      <text:p>523</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="525" calcext:value-type="float">
+      <text:p>525</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C61]-[.B61]" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10.6 Container-Specific Algorithms</text:p>
@@ -1043,9 +1247,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C65]-[.B65]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="527" calcext:value-type="float">
+      <text:p>527</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="531" calcext:value-type="float">
+      <text:p>531</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C62]-[.B62]" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11.1 Using an Associative Container</text:p>
@@ -1053,9 +1263,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C66]-[.B66]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="531" calcext:value-type="float">
+      <text:p>531</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="537" calcext:value-type="float">
+      <text:p>537</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C63]-[.B63]" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11.2 Overview of the Associative Containers</text:p>
@@ -1063,9 +1279,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C67]-[.B67]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="537" calcext:value-type="float">
+      <text:p>537</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="555" calcext:value-type="float">
+      <text:p>555</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C64]-[.B64]" office:value-type="float" office:value="18" calcext:value-type="float">
+      <text:p>18</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11.3 Operations on Associative Containers</text:p>
@@ -1073,9 +1295,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C68]-[.B68]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="555" calcext:value-type="float">
+      <text:p>555</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="560" calcext:value-type="float">
+      <text:p>560</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C65]-[.B65]" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>11.4 The Unordered Containers</text:p>
@@ -1083,9 +1311,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C69]-[.B69]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="562" calcext:value-type="float">
+      <text:p>562</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="595" calcext:value-type="float">
+      <text:p>595</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C66]-[.B66]" office:value-type="float" office:value="33" calcext:value-type="float">
+      <text:p>33</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12.1 Dynamic Memory and Smart Pointers</text:p>
@@ -1093,9 +1327,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C70]-[.B70]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="595" calcext:value-type="float">
+      <text:p>595</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="605" calcext:value-type="float">
+      <text:p>605</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C67]-[.B67]" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12.2 Dynamic Arrays</text:p>
@@ -1103,9 +1343,15 @@
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C71]-[.B71]" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="605" calcext:value-type="float">
+      <text:p>605</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="613" calcext:value-type="float">
+      <text:p>613</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C68]-[.B68]" office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>12.3 Using the Library: A Text-Query Program</text:p>
@@ -1114,7 +1360,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C75]-[.B75]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C69]-[.B69]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1126,7 +1372,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C76]-[.B76]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C70]-[.B70]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1136,7 +1382,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C77]-[.B77]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C71]-[.B71]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1146,7 +1392,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C78]-[.B78]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C72]-[.B72]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1156,7 +1402,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C79]-[.B79]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C73]-[.B73]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1166,7 +1412,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C80]-[.B80]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C74]-[.B74]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1176,7 +1422,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C81]-[.B81]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C75]-[.B75]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1186,7 +1432,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C82]-[.B82]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C76]-[.B76]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1196,7 +1442,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C83]-[.B83]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C77]-[.B77]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1206,7 +1452,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C84]-[.B84]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C78]-[.B78]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1216,7 +1462,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C85]-[.B85]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C79]-[.B79]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1226,7 +1472,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C86]-[.B86]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C80]-[.B80]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1236,7 +1482,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C87]-[.B87]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C81]-[.B81]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1246,7 +1492,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C88]-[.B88]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C82]-[.B82]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1256,7 +1502,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C89]-[.B89]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C83]-[.B83]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1266,7 +1512,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C90]-[.B90]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C84]-[.B84]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1276,7 +1522,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C91]-[.B91]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C85]-[.B85]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1286,7 +1532,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C92]-[.B92]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C86]-[.B86]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1296,7 +1542,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C93]-[.B93]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C87]-[.B87]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1306,7 +1552,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C94]-[.B94]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C88]-[.B88]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1316,7 +1562,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C95]-[.B95]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C89]-[.B89]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1326,7 +1572,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C96]-[.B96]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C90]-[.B90]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1336,7 +1582,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C97]-[.B97]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C91]-[.B91]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1346,7 +1592,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C98]-[.B98]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C92]-[.B92]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1356,7 +1602,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C99]-[.B99]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C93]-[.B93]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1366,7 +1612,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C100]-[.B100]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C94]-[.B94]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1376,7 +1622,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C101]-[.B101]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C95]-[.B95]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1386,7 +1632,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C102]-[.B102]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C96]-[.B96]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1396,7 +1642,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C103]-[.B103]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C97]-[.B97]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1406,7 +1652,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C104]-[.B104]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C98]-[.B98]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1416,7 +1662,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C105]-[.B105]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C99]-[.B99]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1426,7 +1672,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C106]-[.B106]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C100]-[.B100]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1436,7 +1682,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C107]-[.B107]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C101]-[.B101]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1446,7 +1692,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C108]-[.B108]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C102]-[.B102]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1456,7 +1702,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C109]-[.B109]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C103]-[.B103]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1466,7 +1712,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C110]-[.B110]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C104]-[.B104]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1476,7 +1722,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C111]-[.B111]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C105]-[.B105]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1486,7 +1732,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C112]-[.B112]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C106]-[.B106]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1496,7 +1742,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C113]-[.B113]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C107]-[.B107]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1506,7 +1752,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C114]-[.B114]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C108]-[.B108]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1516,7 +1762,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C115]-[.B115]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C109]-[.B109]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1526,7 +1772,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C116]-[.B116]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C110]-[.B110]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1536,7 +1782,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C117]-[.B117]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C111]-[.B111]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1546,7 +1792,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C118]-[.B118]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C112]-[.B112]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1556,7 +1802,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:formula="of:=[.C119]-[.B119]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=[.C113]-[.B113]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
