@@ -1,6 +1,7 @@
 #include<iostream>
 
 // Argument Count and Argument Value
+// Compile and run with "g++ -o Hello HelloWorld.cpp && Hello Zihan Ray"
 int main(int argc, char** argv)
 {
     std::cout << "argc: " << argc << std::endl;
